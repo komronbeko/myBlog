@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "post_id": "cbd032c0-4bc9-4549-9f62-8951e3864448",
+    "user_id": "c756d383-3c34-4535-8ef5-0f6490fec9df"
+  },
+  {
+    "id": 2,
+    "post_id": "0f59c967-ab4c-493f-a6c8-87e2d8e931b6",
+    "user_id": "c756d383-3c34-4535-8ef5-0f6490fec9df"
+  },
+  {
+    "id": 3,
+    "post_id": "575bae22-a425-4502-9d62-076c5968a4a5",
+    "user_id": "c756d383-3c34-4535-8ef5-0f6490fec9df"
+  },
+  {
+    "id": 4,
+    "post_id": "575bae22-a425-4502-9d62-076c5968a4a5",
+    "user_id": "fe25ecf9-6d58-4ac2-8e11-6dd67f7db7bf"
+  },
+  {
+    "id": 5,
+    "post_id": "177b5042-0e78-4fea-98c0-63da60827622",
+    "user_id": "fe25ecf9-6d58-4ac2-8e11-6dd67f7db7bf"
+  }
+]

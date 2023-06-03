@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fe25ecf9-6d58-4ac2-8e11-6dd67f7db7bf",
+    "username": "olimov",
+    "password": "$2b$12$6Mr7vVolqCqn6r9K0O.m8eA8pd4nTBYGTO6YPev.NfLo59/8cXVhe",
+    "role": "admin"
+  },
+  {
+    "id": "c756d383-3c34-4535-8ef5-0f6490fec9df",
+    "username": "kimdir123",
+    "password": "$2b$12$FNS3VlqUbIQt7/Ckr4Jd8OF9FG2pAZ.AIIFz9.EnKNJQZ4sUvTpJW",
+    "role": "user"
+  },
+  {
+    "id": "858f6050-2ea4-4b05-91fe-cf7e35f5859d",
+    "username": "toshmat",
+    "password": "$2b$12$3Z9GIFhoe.jo9.H4ytY8Hur1tkZlnXlvVFBHVVs.9VbKn4cIux3Sa",
+    "role": "user"
+  },
+  {
+    "id": "9897af2d-aeb8-44e8-80ad-1ffba99fa0f2",
+    "username": "umar",
+    "password": "$2b$12$t44TT3zQHSAXaQ1Ck94kluXvUHWVAOIlE7jHVmah9oWYwH/lfd8b2",
+    "role": "user"
+  }
+]
